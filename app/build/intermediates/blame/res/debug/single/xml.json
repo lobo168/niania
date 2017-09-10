@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_authentication.xml",
+        "source": "C:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\src\\main\\res\\xml\\pref_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "C:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\src\\main\\res\\xml\\pref_general.xml"
+    }
+]

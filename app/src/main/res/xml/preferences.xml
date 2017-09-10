@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference
+        android:key="camera"
+        android:title="Camera"/>
+    <CheckBoxPreference
+        android:key="flash_light"
+        android:title="Flash light" />
+    <EditTextPreference
+        android:key="port"
+        android:title="Server port"
+        android:inputType="number"
+        android:defaultValue="8080" />
+    <ListPreference
+        android:key="size"
+        android:title="JPEG size"/>
+    <EditTextPreference
+        android:key="jpeg_quality"
+        android:title="JPEG quality"
+        android:inputType="number"
+        android:defaultValue="40" />
+</PreferenceScreen>
+

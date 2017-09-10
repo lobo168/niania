@@ -1,0 +1,7 @@
+#Mon Apr 10 20:12:29 CEST 2017
+base.0=C\:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2948721ac821166ccd2ed7af45c7efa6fddb950
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_033db3267d5165e44d10ed259e2342b1d21ca5f0\\classes.dex
+base.1=C\:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_033db3267d5165e44d10ed259e2342b1d21ca5f0
+file.0=C\:\\Users\\Lobo\\Desktop\\Do nagrania na plyte\\Aplikacja - Niania\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2948721ac821166ccd2ed7af45c7efa6fddb950\\classes.dex

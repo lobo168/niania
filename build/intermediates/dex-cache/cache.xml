@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.5\b423532b5a3c949cbb799468f83bf566032fe98d\rxjava-1.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="b423532b5a3c949cbb799468f83bf566032fe98d">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.5_bfe23bfd75624a8775911c817367f72643a766a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_8c6b77d387a70e0287ea8ef7ebd53f196f75beff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_b9e3cb760227745a27ff2da6689fa99ecbddf9b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_1b2c35caf9b93a42ab527b90da820568cf67165d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_c4106be4f17f9985a23d0944f695d4172b42df98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_66d8cdb9c12fc6a8bf15609d3a0095bf231c5f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_ac9d980479103db2ea9c3d893b022121d0668966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="e6e7669ed22ef36528114d3d59a6377294c7f397">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_033db3267d5165e44d10ed259e2342b1d21ca5f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_a9deb4c29f1a57439026ca0f131362a834708cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_5ded6843b0690149222cb05a6b2a7e10daba93a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="5de26cb8eb0090b20975b841fa39650389ac830b">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b2948721ac821166ccd2ed7af45c7efa6fddb950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_ee24faa51fb8b70564e630e39b5e2b1e9924685e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_e8cc652ae92eaed2a9d94f32e6ceec047710d8b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_44b4e7a15cf3dedff3bb2c15fc3a5cc3d656e5e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_00789988f93c1d282b4d68d14577ea3d05113fb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lobo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Lobo\Desktop\Do nagrania na plyte\Aplikacja - Niania\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_4cccb0ccc1b465c6649cb1d11394d17564420633\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+Application is based on:
+
+Protect-baby-monitor - https://github.com/brarcher/protect-baby-monitor
+peepers - https://github.com/foxdog-studios/peepers
+ipcam-view - https://github.com/niqdev/ipcam-view
+
+Audio:
+
+Freesound - https://freesound.org/
+
+Image:
+
+Freepik - http://www.freepik.com
+
